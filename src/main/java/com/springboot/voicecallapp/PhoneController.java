@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 RequestMapping("/api/v1")
 public class PhoneController {
 	public static final String ACCOUNT_SID = "ACeafb305c07f871f3f02ec6467b0cb111";
-	public static final String AUTH_TOKEN = "87d40e0cf06912f88aee783f53aa13e6";
+	public static final String AUTH_TOKEN = "shoud be your auth ID can copy from TWILIO site";
 	public static final String fromNumber="+12055484081";
 	public static final String toNumber="+91 9527495733";
 	static{
